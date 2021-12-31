@@ -1,0 +1,34 @@
+{
+  "name": "epixcovid19",
+  "version": "1.0.0",
+  "description": "epixdoviz güncel bilgileri size sunar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epixsoftnet/epixcovid19"
+  },
+  "keywords": [
+    "covid19",
+    "covid",
+    "corona",
+    "corona virus",
+    "coronavirus",
+    "COVID-19",
+    "pandemic",
+    "korona",
+    "koronavirüs",
+    "korona virüsü"
+  ],
+  "author": "Epixsoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epixsoftnet/epixcovid19/issues"
+  },
+  "homepage": "https://epixsoft.net",
+  "dependencies": {
+    "tabletojson": "^2.0.7"
+  }
+}
